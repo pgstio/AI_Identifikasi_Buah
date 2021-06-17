@@ -1,0 +1,1 @@
+🎓 Tugas Kuliah Kecerdasan Buatan (AI) Mengidentifikasi Buah dengan metode KNN menggunakan aplikasi Matlab.
